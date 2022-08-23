@@ -35,10 +35,10 @@
   
     
         ,"post3": {
-            "title": "Title",
+            "title": "Python Notebook",
             "content": "print(&quot;Hello&quot;) . Hello .",
-            "url": "https://valenreynolds.github.io/Valen-Tri-1-Blog/2022/02/20/Python.html",
-            "relUrl": "/2022/02/20/Python.html",
+            "url": "https://valenreynolds.github.io/Valen-Tri-1-Blog/jupyter/2022/02/20/Python.html",
+            "relUrl": "/jupyter/2022/02/20/Python.html",
             "date": " • Feb 20, 2022"
         }
         
